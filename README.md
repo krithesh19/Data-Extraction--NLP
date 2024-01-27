@@ -16,7 +16,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/data-extraction-nlp.git
+git clone https://github.com/krithesh19/Data-Extraction--NLP.git
 cd data-extraction-nlp
 Install Dependencies:
 
